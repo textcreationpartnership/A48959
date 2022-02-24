@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The latest and trvest nevves from Ireland, or, A trve relation of the happy victory obtained against the rebels before Drogheda and how the Earle of Ormond Sir Charles Coote, and Sir Simon Harecourt sallying out of Dublin to Donshoglen with two thousand souldiers slew two hundred rebels, and but 5 of them slain : related in a letter / from a privy councellor in Dublin, to Master Fenton Parsons of Lincolns-Inne, Feb. 26, 1641 ; whereunto is added another relation of an overthrow given them by Sir Henry Tichbourne, being related in a letter to Sir Robert King, Knight, Feb. 27, 1641.</title>
+            <author>Loftus, Edward, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48959</idno>
+            <idno type="STC">Wing L2832</idno>
+            <idno type="STC">ESTC R13681</idno>
+            <idno type="EEBO-CITATION">12594243</idno>
+            <idno type="OCLC">ocm 12594243</idno>
+            <idno type="VID">64012</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48959)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64012)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 250:E137, no 22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The latest and trvest nevves from Ireland, or, A trve relation of the happy victory obtained against the rebels before Drogheda and how the Earle of Ormond Sir Charles Coote, and Sir Simon Harecourt sallying out of Dublin to Donshoglen with two thousand souldiers slew two hundred rebels, and but 5 of them slain : related in a letter / from a privy councellor in Dublin, to Master Fenton Parsons of Lincolns-Inne, Feb. 26, 1641 ; whereunto is added another relation of an overthrow given them by Sir Henry Tichbourne, being related in a letter to Sir Robert King, Knight, Feb. 27, 1641.</title>
+                  <author>Loftus, Edward, 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. S. and W. Ley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Edward Loftus.  cf. BLC.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coote, Charles, --  Sir, d. 1642.</term>
+               <term>Harcourt, Simon, --  Sir, 1603?-1642.</term>
+               <term>Ormonde, James Butler, --  Duke of, 1610-1688.</term>
+               <term>Tichborne, Henry, --  Sir, 1581?-1667.</term>
+               <term>Drogheda (Ireland) --  History.</term>
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64012:1"/>
+            <!-- PDF PAGE 26 -->
+            <pb facs="tcp:64012:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 26 -->
+            <p>THE LATEST AND TRVEST NEVVES <hi>FROM</hi> IRELAND;</p>
+            <p>OR, ATRVE RELATION of the happy victory obtained a<g ref="char:EOLhyphen"/>gainſt the Rebels before <hi>Droheda,</hi> and how the Earle of <hi>Ormond</hi> Sir <hi>Charles Coote,</hi> and Sir <hi>Simon Harecourt</hi> ſallying out of <hi>Dublin</hi> to <hi>Donſhoglen</hi> with two thou<g ref="char:EOLhyphen"/>ſand Souldiers; Slew two hundred Rebels, and but 5. of them ſlain:</p>
+            <p>Related in a Letter from a Privy Councellor in <hi>Dublin,</hi> to Maſter <hi>Fenton Parſons</hi> of Lincolns-Inne, <hi>Feb.</hi> 26. 1641.</p>
+            <p>WHEREUNTO IS ADDED Another Relation of an Overthrow given them by Sir <hi>Henry Tichbourne,</hi> being related in a Letter to Sir <hi>Robert King</hi> Knight, <hi>Feb.</hi> 27. 1641.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>H.S.</hi> and <hi>W. Ley.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:64012:2"/>
+            <!-- PDF PAGE 27 -->
+            <pb n="1" facs="tcp:64012:2"/>
+            <!-- PDF PAGE 27 -->
+            <head>A Copy of a Letter ſent from a Privy Councellor, to M. <hi>Fenton Parſons</hi> of Lincolnes Inne, <hi>Feb.</hi> 26. 1641.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Ad newes I know alwayes comes too faſt to you, but good newes cannot. I love to bee the writer of none but good, it is our greateſt miſery that we ſee not ayd and treaſure comming fa<g ref="char:EOLhyphen"/>ſter from <hi>England,</hi> and in ſuch extremities as wee are in, it is our greateſt happineſſe that God gives ſuch courage to thoſe few men that are here as hee does. <hi>Droheda</hi> was of late driven to that extremitie for want of victualls, that they were faine to kill the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Hor<g ref="char:EOLhyphen"/>ſes and feede on them, which foode being harſh to them, their chiefe Commander, Sir <hi>Henry Titchbourne</hi> Governour of the towne pittying the Souldiers miſery and his owne diſtreſſe, reſol<g ref="char:EOLhyphen"/>ving rather to die by the Sword, then to ſtarve or let the towne be taken as long as he lived, one night with about 50. Horſe ſallied out of the towne, fell upon one of the quarters of the Re<g ref="char:EOLhyphen"/>bels that lay before the towne, routed them, and killed of them about foureſcore, and tooke
+<pb n="2" facs="tcp:64012:3"/>
+               <!-- PDF PAGE 28 -->two of their Colours and foure hundred Cowes from them, and brought them into the Citie of <hi>Droheda,</hi> in that time when that Citie was in that lamentable condition for want of victualls, the State here was not unmindfull of releeving them, and aiding them the beſt they could, for of late the Kings Pinnace and nine ſmall veſſells were ſent thither with victualls and Souldiers to releeve them, but the Rebells care to keep reliefe from comming to that City was ſuch, that they had ſo blockt and chained up the River, whereby the reliefe ſhould have beene brought in, that there was no paſſage in or out by water, but God that provides for his, and will never ſuffer the righteous to periſh, ſent ſuch a ſtorme, that their workes and endea<g ref="char:EOLhyphen"/>vours they had uſed to ſtop up the river, were throwne downe, and the paſſage laid o<g ref="char:EOLhyphen"/>pen the very night before the Kings Pinnace and the nine ſmall veſſells got thither with re<g ref="char:EOLhyphen"/>liefe, that when they came the reliefe went in without any great trouble, or great danger: thus God you ſee provides for the diſtreſſed; And not to keepe from you the other ſervice our <hi>Dublin</hi> Souldiers have of late done, I muſt informe you, that the Earle of <hi>Ormond,</hi> Sir <hi>Charles Coote,</hi> and Sir <hi>Simon Hartcourt</hi> with ſome of 2000. Souldiers in <hi>Dublin</hi> marched lately out of <hi>Dublin</hi> to a place neare <hi>Dunſhoglen,</hi> 12. miles from <hi>Dublin</hi> where the Rebells had entrenched themſelves neare a Wood very ſtrongly, but our Souldiers manfully beat them out of their
+<pb n="3" facs="tcp:64012:3"/>
+               <!-- PDF PAGE 28 -->Trenches, routed them, kild about 200. of them, and but five of our men loſt, whereof Lieuete<g ref="char:EOLhyphen"/>nant <hi>Richford</hi> was one, a man of a gallant ſpirit, and ſuffered by his too much reſolution; for had he not too eagerly followed them into the Wood he had beene alive for all that fight ſtill. I can<g ref="char:EOLhyphen"/>not certainly informe you whether any of Sir <hi>Henry Tichbournes</hi> men were loſt in getting that reliefe they did, nor have we any certaine intelli<g ref="char:EOLhyphen"/>gence from <hi>Mounſter.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:64012:4"/>
+            <!-- PDF PAGE 29 -->
+            <head>Ioyfull Newes from Ireland, or a true relation of the great overthrow which the Engliſh gave the Rebels before <hi>Droheda, &amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N my laſt to you, I ſignified to you, the difficulties which were like to befall us by the relieving of <hi>Droheda,</hi> but God by his infi<g ref="char:EOLhyphen"/>n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te mercy hath freed us (I may ſay miraculouſly) from that haz<g ref="char:EOLhyphen"/>zard: for when our men there were driven to that extremity to eat horſe-fleſh, Sir <hi>Henry Tichbourne</hi> ſallyed out of the Town with on<g ref="char:EOLhyphen"/>ly forty Musketiers, and f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rty Horſe, and beat off foure hundred of the enemies, killed above three<g ref="char:EOLhyphen"/>ſcore of them, recovered foureſcore Cowes and Oxen, and two hundred Sheep; burned foure towns, and brought home two of their Colours; Beſides, I muſt relate unto you Gods abundant goodneſſe unto us, in that the night before the reliefe and ſuc<g ref="char:EOLhyphen"/>cours which we ſent by Sea from <hi>Dublin</hi> to them, ſhould have entred into the Harbour of <hi>Droheda,</hi> (which was ſtrongly fenced over with a Chain and ſeverall boats) there hapned a ſtorme which broke their chaines, and gave our men ſo free a paſſage, as with little difficulty they came ſafely to the towne. The Rebels were gathered at <hi>Kilſhalgham</hi> within ſeven miles of <hi>Dublin,</hi> above two thouſand men,
+<pb n="5" facs="tcp:64012:4"/>
+               <!-- PDF PAGE 29 -->where they were ſetled in a very ſtrong wood. My Lord of <hi>Ormond</hi> carryed out part of our Army, and beat them out of that great ſtrength (for they would not come into the Champaine) and killed above a hundred of them, without any conſiderable loſſe of our ſide, only Captain <hi>Iames Rochfort,</hi> a moſt gal<g ref="char:EOLhyphen"/>lant and couragious Gentleman. This was an act of great bravery, wherein Sir <hi>Charles Coote</hi> did, (as he doth alwayes) beyond expectation, expoſing his perſon to as much danger as any man living could<g ref="char:punc">▪</g> and in truth he is a gallant man, full of courage and good affections, and deſerves great incouragement from that ſide. Our ſouldiers are in great want of mony, which cauſes a generall want of all other ne<g ref="char:EOLhyphen"/>ceſſaries, yet notwithſtanding God hath infuſed ſuch courage into them (for undoubtedly it is his work) that they think there is no danger ſo great, but they may attempt it.</p>
+            <p>Colonel <hi>Munke</hi> is arrived here with my Lord Lieutenants Regiment of fifteen hundred foot, and Sir <hi>Richard Greevill</hi> with neare foure hundred horſe, which puts much heart into us, and makes us look big upon our neighbours, yet we grieve we cannot be able to relieve our friends in other parts; but I hope when our full ſuccours ſhall come, we ſhall not only defend this place, but adde comfort to our poore diſtreſſed friends abroad.</p>
+            <p>The enemy though their numbers be very great, even beyond beliefe, yet their hearts begin to faint, and I believe they repent their furious madneſſe.</p>
+            <p>If my Brother be in <hi>London,</hi> I pray you impart this Letter to him, I would have written to him,
+<pb n="6" facs="tcp:64012:5"/>
+               <!-- PDF PAGE 30 -->but that I thought he was at <hi>Cheſter,</hi> or in his way thither; By the next he ſhall heare from me at large, and I ſhall likewiſe trouble you.</p>
+            <p>I muſt now only tell you, that I thank you for your care of thoſe things which concern me, and that I am, Sir, your moſt affectionate ſervant,</p>
+            <closer>
+               <dateline>
+                  <date>Feb. 27. 1641.</date>
+               </dateline>
+               <signed>Ed. Loftus.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Martii 7.</date>
+               </dateline>
+            </opener>
+            <p>It is this day ordered forthwith, That this Letter be publiſhed in Print.</p>
+            <closer>
+               <signed>H. Elſing. Cler. P. D. Com.</signed>
+            </closer>
+            <pb facs="tcp:64012:5"/>
+            <!-- PDF PAGE 30 -->
+         </div>
+      </body>
+   </text>
+</TEI>
